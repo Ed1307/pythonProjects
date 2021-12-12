@@ -1,0 +1,1 @@
+words = ("weather", "rain", "sun", "train", "car")
